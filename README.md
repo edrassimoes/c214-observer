@@ -7,5 +7,5 @@ python main.py
 Os testes unitários para a classe PalavrasObserver estão incluídos no arquivo teste.py. Eles garantem que a função update da classe PalavrasObserver funcione conforme o esperado.
 Para executar os testes pelo bash, utilize o seguinte comando: 
 ```bash
-python -m unittest teste.py
+python -m unittest -v teste.py
 ```
