@@ -1,6 +1,5 @@
 import unittest
 from io import StringIO
-import sys
 from unittest.mock import patch
 from main import PalavrasObserver
 
